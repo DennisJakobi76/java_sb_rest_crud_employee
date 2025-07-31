@@ -62,7 +62,7 @@ public class Employee {
     public void setEmail(String email) {
         this.email = email;
     }
-    
+
     // define toString()
     @Override
     public String toString() {
